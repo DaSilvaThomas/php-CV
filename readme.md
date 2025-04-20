@@ -68,15 +68,6 @@ Pour personnaliser le CV :
 - Ajuster les styles dans `style.css` pour changer l'apparence visuelle
 - Remplacer les images dans le dossier `img/` par vos propres images
 
-## Développement futur
-
-Voici quelques idées d'améliorations possibles :
-- Ajouter un système d'authentification pour protéger les modifications
-- Permettre l'ajout dynamique de nouvelles sections 
-- Implémenter un système de version pour revenir à des états précédents du CV
-- Ajouter la possibilité d'exporter le CV en PDF
-- Intégrer un éditeur de texte riche pour les modifications
-
 ## Sécurité
 
 Le projet utilise `pg_query_params()` pour éviter les injections SQL lors des modifications.

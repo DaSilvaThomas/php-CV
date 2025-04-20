@@ -32,7 +32,7 @@ CREATE TABLE objectifs (
 );
 
 INSERT INTO objectifs VALUES
-(1, 'Actuellement en première année de Master Géomatique, je suis captivé par la programmation et le développement. Mon expérience en alternance à la Préfecture de Police de Paris a renforcé mon intérêt pour ce domaine. J''aspire à devenir développeur, attiré par la créativité et la résolution de problèmes.');
+(1, 'Actuellement en première année de Master Géomatique, je suis captivé par la programmation et le développement. Mon expérience en alternance a renforcé mon intérêt pour ce domaine. J''aspire à devenir développeur, attiré par la créativité et la résolution de problèmes.');
 
 -----------------------------------------------------------------
 

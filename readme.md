@@ -3,6 +3,7 @@
 ## Vue d'ensemble du projet
 
 Ce projet est un CV interactif développé en PHP qui permet de modifier le contenu en temps réel depuis un navigateur web. Toutes les informations affichées sont stockées dans une base de données PostgreSQL et peuvent être modifiées facilement grâce à une interface utilisateur intuitive.
+> **Avertissement** : Les informations présentes dans ce CV sont **fictives** et ne correspondent **pas à mon vrai parcours professionnel**.
 
 ## Fonctionnalités principales
 
